@@ -1,0 +1,22 @@
+{
+  "cart": [
+    {
+      "name": "Kano Airlines",
+      "start": "Kano",
+      "stop": "lagos",
+      "date": "2022-07-18",
+      "time": "2",
+      "price": "1234",
+      "id": 9
+    },
+    {
+      "name": "kan",
+      "start": "zaria",
+      "stop": "nija",
+      "date": "2022-07-16",
+      "time": "3.5",
+      "price": "200000",
+      "id": 10
+    }
+  ]
+}
